@@ -3,7 +3,7 @@
 * Blood Alcohol Concentration Calculator (Türkçe - Turkish) 
 * https://promil.alpolcaymis.com/
 
-## React-Projects (For PATİKADEV BOOTCAMP)
+## React-Projects (For Patika.dev & Fimple React Bootcamp)
 * Geine Store (wishlist contains  a funny joke!) (CRUD app)
 * https://6585712b44a5bcb98eb4e930--keen-buttercream-7c66c8.netlify.app/
 * Fimple React Bootcamp Case Ticket App (ID: kodluyoruz, Password: bootcamp109)
