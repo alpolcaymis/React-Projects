@@ -21,8 +21,6 @@
 * Placepicker App
 * https://65aac8664ca97c0d6bb0d23e--chic-moonbeam-5c6820.netlify.app/
 
-
-
 ## React-Projects (For Patika.dev & Fimple React Bootcamp)
 * Geine Store (wishlist contains  a funny joke!) (CRUD app)
 * https://6585712b44a5bcb98eb4e930--keen-buttercream-7c66c8.netlify.app/
@@ -38,5 +36,3 @@
 * https://adorable-frangipane-4ffd68.netlify.app/
 * todo app masterpiece (joke inside "add new task" button)
 * https://endearing-bombolone-3144ad.netlify.app/
-
-* 
