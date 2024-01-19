@@ -1,6 +1,6 @@
 # React-Projects
-tictactoe
-https://65aac4f428c67c11621db473--ephemeral-strudel-65fad6.netlify.app/
+*tictactoe
+*https://65aac4f428c67c11621db473--ephemeral-strudel-65fad6.netlify.app/
 investment calculator
 https://65aac573621e4711e36124f4--leafy-pavlova-bef77b.netlify.app/
 Click Just In Time Game
