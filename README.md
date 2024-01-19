@@ -34,3 +34,9 @@
 * https://657e1db4b0fbca7d967b5755--dashing-pithivier-473b8c.netlify.app/
 * Phone Book App
 * https://656a25a0c564b11ea43463aa--amazing-figolla-2e865d.netlify.app/
+* posts json 
+* https://adorable-frangipane-4ffd68.netlify.app/
+* todo app masterpiece (joke inside "add new task" button)
+* https://endearing-bombolone-3144ad.netlify.app/
+
+* 
