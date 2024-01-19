@@ -1,6 +1,6 @@
 # React-Projects
 ## alpolcaymis.com
-* Blood Alcohol Concentration Calculator (Türkçe - Turkish) 
+* Blood Alcohol Concentration Calculator (Türkçe - Turkish) (Mobile First)
 * https://promil.alpolcaymis.com/
 
 ## React-Projects (For Patika.dev & Fimple React Bootcamp)
